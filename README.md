@@ -31,6 +31,8 @@ CardioNet/
 |-- README.md                      # This file
 ```
 
+**Trained Model Weights:** [cardionet_final.pth (Google Drive)](https://drive.google.com/file/d/1J9G210-If_adQiDnb3B-ODv6Cxm4wQQ2/view?usp=sharing) (74.7 MB)
+
 ---
 
 ## Quick Start
